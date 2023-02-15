@@ -66,10 +66,11 @@ console.log(Math.round(5.6)) // 6
 console.log(Math.ceil(5.1)) // 6
 console.log(Math.floor(5.9)) // 5
 console.log(Math.PI.toFixed(2)) // "3.14" => OBS.: SE TORNA UMA STRING
-console.log(Math.abs(-10))
+console.log(Math.abs(-10)) // Módulo de -10 é 10
 function cos(g){
     const graus = g * Math.PI / 180
     return Math.cos(graus)
 }
+
 
 
