@@ -12,4 +12,4 @@
 
 ### POO/PHP
 
-#### [Aula 01](https://github.com/devmatheusguerra/2-info-2023/tree/main/PROG%20WEB/aula%2001 "Aula 01")
+#### [Aula 01](https://github.com/devmatheusguerra/2-info-2023/tree/main/POO%20PHP/Aula%2001 "Aula 01")
