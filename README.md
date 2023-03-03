@@ -9,7 +9,7 @@
 
 #### [Aula 03](https://github.com/devmatheusguerra/2-info-2023/tree/main/PROG%20WEB/aula%2003 "Aula 03")
 
-#### [Projeto do Jogo da Velha](https://github.com/devmatheusguerra/2-info-2023/tree/main/PROG%20WEB/jogo-da-velha "Projeto do Jogo da Velha")
+#### [Projeto - Jogo da Velha](https://github.com/devmatheusguerra/2-info-2023/tree/main/PROG%20WEB/jogo-da-velha "Projeto do Jogo da Velha")
 
 
 ### POO/PHP
